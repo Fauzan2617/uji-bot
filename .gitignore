@@ -1,0 +1,16 @@
+# Python
+brain/venv/
+brain/.env
+brain/__pycache__/
+brain/**/__pycache__/
+brain/**/*.pyc
+
+# JS
+gateway/node_modules/
+gateway/.env
+gateway/src/auth/session/*
+!gateway/src/auth/session/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
