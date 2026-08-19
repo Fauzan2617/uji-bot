@@ -90,4 +90,4 @@ class Config:
 
 
 # Membuat instance singleton 'config' agar bisa di-import dan digunakan secara langsung oleh modul lain
-config = Config()5
+config = Config()
